@@ -1,2 +1,2 @@
 # LangChain-Semantic-kernel
-For Learning purpose
+Basics knowledge of LangChain and Semantic Kernel.
